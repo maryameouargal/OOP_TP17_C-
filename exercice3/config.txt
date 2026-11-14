@@ -1,0 +1,3 @@
+app_name=AO3
+version=v3
+language=ENGLISH
